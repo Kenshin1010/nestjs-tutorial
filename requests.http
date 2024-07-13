@@ -1,2 +1,5 @@
 ### Get hello world
 GET http://localhost:3000/
+
+### Get hello world when set prefix api
+GET http://localhost:3000/api
